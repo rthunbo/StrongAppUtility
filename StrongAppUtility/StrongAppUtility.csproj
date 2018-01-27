@@ -63,6 +63,7 @@
     <Compile Include="Model\Workout.cs" />
     <Compile Include="Repositories\MeasurementRepository.cs" />
     <Compile Include="Repositories\WorkoutRepository.cs" />
+    <Compile Include="Services\VolumeCalculator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
